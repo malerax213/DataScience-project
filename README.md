@@ -1,7 +1,7 @@
-bd
+DataScience Project
 ==============================
 
-A short description of the project.
+A project based on the estimation of the population till 2050.
 
 Project Organization
 ------------
