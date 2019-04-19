@@ -19,7 +19,6 @@ def main(output_filepath):
     logger = logging.getLogger(__name__)
     logger.info('Getting data from web')
 
-    # We'll get Booking-20181025-1232.csv and Booking-20151012-1322.csv
     urls = ['https://datasource.kapsarc.org/explore/dataset/population-estimates-and-projections-1960-2050/download/?format=csv&timezone=Europe/Berlin&use_labels_for_header=true','https://datasource.kapsarc.org/explore/dataset/kuwait-population-estimates/download/?format=csv&timezone=Europe/Berlin&use_labels_for_header=true','https://datasource.kapsarc.org/explore/dataset/population-projections/download/?format=csv&timezone=Europe/Berlin&use_labels_for_header=true','https://datasource.kapsarc.org/explore/dataset/u-s-regional-annual-population-estimates/download/?format=csv&timezone=Europe/Berlin&use_labels_for_header=true', 'https://datasource.kapsarc.org/explore/dataset/world-urbanization-prospects-the-2018-revision-population/download/?format=csv&timezone=Europe/Berlin&use_labels_for_header=true']
     filenames = ['population-estimates-and-projections-1960-2050.csv','kuwait-population-estimates.csv','population-projections.csv','u-s-regional-annual-population-estimates.csv','world-urbanization-prospects-the-2018-revision-population.csv']
     i = 0
