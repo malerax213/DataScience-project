@@ -1,7 +1,19 @@
 DataScience Project
 ==============================
 
-A project based on the estimation of the population till 2050.
+A project based on some estimations of the populations of different countries (Kuwait, USA, etc..).
+
+The following datasets have been used:
+
+1st dataset --> Population and other demographic estimatations and projections from 1960 to 2050. Link: https://datasource.kapsarc.org/explore/dataset/population-estimates-and-projections-1960-2050/information/?disjunctive.country&disjunctive.series
+
+2nd dataset --> Bahrain Population Projections for 2018-2032. Link: https://datasource.kapsarc.org/explore/dataset/population-projections/information/
+
+3rd dataset --> Kuwait Population estimation. Link: https://datasource.kapsarc.org/explore/dataset/kuwait-population-estimates/information/?disjunctive.age_group_name&disjunctive.date&disjunctive.frequency&disjunctive.nationality_name&disjunctive.sex_name
+
+4th dataset --> US Regional Annual Population estimates. Link: https://datasource.kapsarc.org/explore/dataset/u-s-regional-annual-population-estimates/information/?disjunctive.date&disjunctive.frequency&disjunctive.region_name&disjunctive.variable_name
+
+5h dataset --> World urbanization prospects from 1950 to 2018. Link: https://datasource.kapsarc.org/explore/dataset/world-urbanization-prospects-the-2018-revision-population/information/?disjunctive.country_name&disjunctive.date&disjunctive.frequency&disjunctive.variable_name&disjunctive.variable_unit
 
 Project Organization
 ------------
